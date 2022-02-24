@@ -65,7 +65,7 @@ This book is the result of three years of spare time work and passion about the 
 
 ## Is this book for me? {-}
 
-You are an experienced Shiny user and you want to learn more about the underlying web technologies so that you can quickly customize your apps. Good new: basic knowledge in __HTML__, __CSS__ and __JavaScript__ is a plus but not mandatory.
+You are an experienced Shiny user and you want to learn more about the underlying web technologies so that you can quickly customize your apps. Good news: basic knowledge in __HTML__, __CSS__ and __JavaScript__ is a plus but not mandatory.
 
 If you fulfill the above prerequisites, you should read this book if you already happened to ask one of the following questions:
 
